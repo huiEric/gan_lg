@@ -1,0 +1,19 @@
+Loading MNIST dataset...
+Setting Hyper-param...
+Learning rate: 0.001
+Num of iterations: 100000
+Batch size: 32
+Dimension of z: 81
+Iter: 0; D_loss: 1.305; G_loss: 0.9105
+Iter: 1000; D_loss: 0.2368; G_loss: 2.682
+Iter: 2000; D_loss: 0.2325; G_loss: 2.713
+Iter: 3000; D_loss: 0.2674; G_loss: 2.033
+Iter: 4000; D_loss: 0.478; G_loss: 2.201
+Iter: 5000; D_loss: 0.6696; G_loss: 1.954
+Iter: 6000; D_loss: 0.6595; G_loss: 1.897
+Iter: 7000; D_loss: 0.4788; G_loss: 1.638
+Iter: 8000; D_loss: 0.6236; G_loss: 2.27
+Iter: 9000; D_loss: 0.5607; G_loss: 2.077
+Iter: 10000; D_loss: 0.6131; G_loss: 1.792
+Iter: 11000; D_loss: 0.7839; G_loss: 1.771
+Iter: 12000; D_loss: 0.7562; G_loss: 1.717
